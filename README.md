@@ -48,7 +48,7 @@
 2. React then compares this new VDOM tree with the current VDOM.
 3. Any changes are then applied to the real DOM.
 
-> React allows us to write declarative code (we declare what we want react to do, and it takes care of the details) instead of imperative code (we write exactly the code needed to do the thing we want to do .. (like jQuery))
+> React allows us to write declarative code (we declare what we want react to do, and it takes care of the details) instead of imperative code (we write exactly the code needed to do the thing we want to do .. (like jQuery)
 
 ---
 
